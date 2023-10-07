@@ -3,6 +3,14 @@ body {
     font-size: 14px;
 }
 
+nav a {
+  color: red;
+}
+
+#active {
+  font-weight: bold;
+}
+
 h1 {
   background-color: darkorange;
   font-size: 40px;
@@ -14,4 +22,20 @@ h2 {
 
 p {
   line-height: 1.5;
+}
+
+.voorbeeld1 {
+  font-weight: bold;
+}
+
+p.voorbeeld1 {
+  color: yellow;
+}
+
+.voorbeeld2 {
+  background-color: darkturquoise;
+}
+
+.voorbeeld-span {
+  background-color: yellow;
 }
